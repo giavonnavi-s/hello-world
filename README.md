@@ -1,7 +1,8 @@
 # hello-world
 My first repository on GitHub<br>
-<br>Let's see what's behind all those unturned stones - <br>
-<pre><p>Still working on the "How-To's".
+<br>Still working on the "How-To's".<br>
+
+<pre><p><h3><br>Let's see what's behind all those unturned stones</h3> - <br>
 
 I'm sure I'll get there,    but <em>definitely,</em> 
  
